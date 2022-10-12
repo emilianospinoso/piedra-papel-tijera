@@ -17,6 +17,8 @@ public class Jugada {
         System.out.println(" Segunda Mano generada = "+ manoDos);
         System.out.println(manoUno.jugar(manoDos));
         //aca realizo otro cambio
+        //opa , cambio en feature2
+
     }
 
     public static String jugar(int number1, int number2){
