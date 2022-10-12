@@ -16,6 +16,7 @@ public class Jugada {
         Mano manoDos = generarMano(numerosAzar.get(1));
         System.out.println(" Segunda Mano generada = "+ manoDos);
         System.out.println(manoUno.jugar(manoDos));
+        //aca realizo otro cambio
     }
 
     public static String jugar(int number1, int number2){
