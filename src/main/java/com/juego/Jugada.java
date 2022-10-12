@@ -20,6 +20,7 @@ public class Jugada {
         //cambioooo realizado en la rama feature
         //opa , cambioooo en feature2
         //un cambio en master re imporante!!!!
+        //aca hago un cambio ,no tan importante!!!
 
     }
 
